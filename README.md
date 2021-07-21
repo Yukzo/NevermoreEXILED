@@ -5,4 +5,4 @@ If you do not know what this is, go to the
 EXILED Github as this is not an example/tutorial.
 
 
-taken from moogle lol cry about it
+forntite game
