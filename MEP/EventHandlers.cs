@@ -1,4 +1,4 @@
-namespace MEP
+namespace Credits
 {
 	public class EventHandlers
 	{
