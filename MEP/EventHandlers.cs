@@ -10,8 +10,9 @@ namespace Credits
 
 		}
 
-		public void OnRoundEnd()
+		public void OnCommand("piick")
 		{
+			return("cringe")
 
 		}
 	}
